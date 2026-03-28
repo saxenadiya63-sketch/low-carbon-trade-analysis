@@ -15,7 +15,7 @@
 - china is a leading exporter.
 - some countries are import denpent competitive nations.
 
-- ###CONCLUSION:
+- ### CONCLUSION:
 - The analysis shows that global low-carbon trade has grow significantly over time,
   with countries like china and germany leading due to strong advantage . while some countries
   remain import-dependent , the overall trend indicates increasing global focus on sustaiable technologies.
